@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @777ai7
-- 👀 I’m interested in black screens
+- 👋 Hi, I’m Oussama Arif
+- ✨ I am currently a Head of Finance in a Saas startup in Berlin, Germany
 - 🌱 I’m currently learning **python**
 
 
