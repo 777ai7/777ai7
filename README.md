@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Oussama Arif
 - ✨ I am currently a Head of Finance in a Saas startup in Berlin, Germany
-- 🌱 I’m currently learning **python**
+- 🌱 I’m currently learning Machine Learning and Data Science using **python**
 
 
 <!---
